@@ -1,0 +1,17 @@
+.primary{
+    position: relative;
+    left: 30%;
+}
+
+.secondary{
+    position:relative;
+    left: 17%;
+    background-color: green;
+    color: white;
+    margin: 2%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    border-radius: 50px;
+}
